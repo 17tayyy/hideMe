@@ -2,6 +2,10 @@
 
 **hideMe** is a bash tool designed to route all your system's traffic through the [Tor](https://www.torproject.org/) network and optionally connect to a ProtonVPN server if the proper credentials are available.
 
+## Images
+
+![image](https://github.com/user-attachments/assets/c3f7798a-5737-4143-83c6-6fef26370a45)
+
 ## Features
 
 - Route all traffic transparently through Tor using `iptables`.
